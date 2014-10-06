@@ -1,3 +1,3 @@
-FooCoin (FOO)
+GoldDust (GDT)
 
 Blah, blah, blah.
