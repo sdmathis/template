@@ -1,3 +1,3 @@
-GoldDust (GDT)
+BarCoin (BAR)
 
 Blah, blah, blah.
